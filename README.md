@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdisamad</h1>
 <h3 align="center">A passionate Data analyst and BI developer</h3>
 
-<a href="https://i.postimg.cc/ZY1Ncv0m/magac.gif"><img src="https://i.postimg.cc/ZY1Ncv0m/magac.gif" alt="Coding"></a>
+[![magac.gif](https://i.postimg.cc/ZY1Ncv0m/magac.gif)](https://postimg.cc/yWyW6dFp)
 
 - 🔭 I’m currently working on **Sarin Analytics PBI Reports.**
 
