@@ -4,7 +4,7 @@
 
 [![magac.gif](https://i.postimg.cc/ZY1Ncv0m/magac.gif)](https://postimg.cc/yWyW6dFp)
 
-- 🔭 I’m currently working on **Sarin Analytics PBI Reports.**
+
 
 - 👨‍💻 All of my projects are available at [https://abdisamad-portfolio.pages.dev/](https://abdisamad-portfolio.pages.dev/)
 
