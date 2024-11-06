@@ -6,9 +6,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://abdisamad-portfolio.pages.dev/](https://abdisamad-portfolio.pages.dev/)
 
-- 💬 Ask me about **BI, SQL, Tableau**
+
+- 💬 Ask me about **PYTHON, ML, DL, YOLOV5,YOLOV11, BI, SQL, Tableau**
 
 - 📫 How to reach me **abdisamad.oma@gmail.com**
 
