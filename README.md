@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/vB9dWKc5/kur.png)](https://ibb.co/R4qS10Y)
+[![MasterHead](https://i.ibb.co/3c9npNN/github-header-image.png)](https://ibb.co/R4qS10Y)
 <h1 align="center">Hi 👋, I'm Abdisamad</h1>
 <h3 align="center">A passionate Data analyst and BI developer</h3>
 
