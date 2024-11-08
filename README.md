@@ -8,7 +8,7 @@
 
 
 
-💬 Ask me about:
+### 💬 Ask me about:
 • Machine Learning: Scikit-learn, Regression, Classification, Clustering
 • Deep Learning: Neural Networks, CNN, RNN, LSTM
 • Computer Vision: YOLO (v5, v11), Object Detection, OpenCV
