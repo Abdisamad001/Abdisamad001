@@ -9,11 +9,17 @@
 
 
 ### 💬 Ask me about:
+
 • Machine Learning: Scikit-learn, Regression, Classification, Clustering
+
 • Deep Learning: Neural Networks, CNN, RNN, LSTM 
+
 • Computer Vision: YOLO (v5, v11), Object Detection, OpenCV
+
 • Python Libraries: TensorFlow, PyTorch, Pandas, NumPy
+
 • Data Analysis: SQL, Power BI, Tableau, Data Visualization
+
 • MLOps: Docker, Git, Model Deployment
 
 
