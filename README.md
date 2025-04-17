@@ -8,15 +8,13 @@
 
 
 
-### 💬 Ask me about:
+### 💬 Focused Topics:
 
-• Machine Learning: Scikit-learn, Regression, Classification, Clustering
+• Machine Learning
 
-• Deep Learning: Neural Networks, CNN, RNN, LSTM 
+• Deep Learning: NN, CNN, RNN, Transformers 
 
-• Computer Vision: YOLO (v5, v11), Object Detection, OpenCV
-
-• Python Libraries: TensorFlow, PyTorch, Pandas, NumPy
+• Computer Vision: YOLO Object Detection, OpenCV
 
 • Data Analysis: SQL, Power BI, Tableau, Data Visualization
 
