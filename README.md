@@ -9,17 +9,7 @@
 
 
 ### 💬 Focused Topics:
-
-• Machine Learning
-
-• Deep Learning: NN, CNN, RNN, Transformers 
-
-• Computer Vision: YOLO Object Detection, OpenCV
-
-• Data Analysis: SQL, Power BI, Tableau, Data Visualization
-
-• MLOps: Docker, Git, Model Deployment
-
+#### Computer Vision and Machine Learning
 
  #### 📫 How to reach me **abdisamad.oma@gmail.com**
 
