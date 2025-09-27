@@ -9,9 +9,9 @@
 
 
 ### 💬 Focused Topics:
-#### Computer Vision and Machine Learning
+#### Computer Vision and Machine Learning.
 
-##### Doing MSc of DS
+##### Doing MSc of DS.
 
  #### 📫 How to reach me **abdisamad.oma@gmail.com**
 
