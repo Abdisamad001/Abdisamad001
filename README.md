@@ -11,6 +11,8 @@
 ### 💬 Focused Topics:
 #### Computer Vision and Machine Learning
 
+##### Doing MSc of DS
+
  #### 📫 How to reach me **abdisamad.oma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
