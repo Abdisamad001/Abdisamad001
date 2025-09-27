@@ -9,7 +9,8 @@
 
 
 ### 💬 Focused Topics:
-#### Computer Vision and Machine Learning.
+#### `Gen ai & NLP, Computer Vision and Machine Learning`.
+
 
 ##### Doing MSc of DS.
 
