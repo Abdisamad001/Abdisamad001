@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/3c9npNN/github-header-image.png)](https://ibb.co/R4qS10Y)
 <h1 align="center">Hi 👋, I'm Abdisamad</h1>
-<h3 align="center">A passionate Data Scientist & ML Engineer</h3>
+<h3 align="center">A Sr. Data Scientist & ML Engineer</h3>
 
 [![magac.gif](https://i.postimg.cc/ZY1Ncv0m/magac.gif)](https://postimg.cc/yWyW6dFp)
 
