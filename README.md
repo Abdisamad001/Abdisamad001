@@ -12,7 +12,7 @@
 #### --> `Gen ai & NLP | Computer Vision and Machine Learning`.
 
 
-##### Doing MSc of DS.
+##### Doing AI-Powered Full-Stack Applications
 
  #### 📫 How to reach me **abdisamad.oma@gmail.com**
 
